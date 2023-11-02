@@ -19,8 +19,6 @@ We aim to alleviate humanity from everything that is NOT essential. We want peop
 
 [ASQ: Your own JARVIS to get things done!](https://justasq.it/)
 
-[ASQ PR deck.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/01c9f47a-8944-4f12-bebd-587ad5767dac/f937570c-7372-43a3-8226-f68bf096c82c/ASQ_PR_deck.pdf)
-
 # Contact
 
 [john@padocorp.com](mailto:john@padocorp.com)
